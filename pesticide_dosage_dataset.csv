@@ -1,0 +1,901 @@
+Crop,Disease,PlantAge,Pesticide_en,Pesticide_ta,Dosage_en,Dosage_ta,Quantity_en,Quantity_ta
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Young (< 1 month),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,1 g/L,1 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Mature (1-3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Bacterialblight,Old (> 3 months),Copper Hydroxide,காப்பர் ஹைட்ராக்சைடு,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்
+Rice,Blast,Young (< 1 month),Tricyclazole,ட்ரைசைக்ளாசோல்,0.5 g/L,0.5 கிராம்/லிட்டர்,150 g/Acre,150 கிராம்/ஏக்கர்
+Rice,Blast,Mature (1-3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,0.6 g/L,0.6 கிராம்/லிட்டர்,200 g/Acre,200 கிராம்/ஏக்கர்
+Rice,Blast,Old (> 3 months),Tricyclazole,ட்ரைசைக்ளாசோல்,1.0 g/L,1.0 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Young (< 1 month),Mancozeb,மாங்கோசெப்,1.5 g/L,1.5 கிராம்/லிட்டர்,300 g/Acre,300 கிராம்/ஏக்கர்
+Rice,Brownspot,Mature (1-3 months),Mancozeb,மாங்கோசெப்,2.0 g/L,2.0 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Rice,Brownspot,Old (> 3 months),Mancozeb,மாங்கோசெப்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Rice,Tungro,Young (< 1 month),Imidacloprid,இமிடாகுளோபிரிட்,0.2 ml/L,0.2 மி.லி/லிட்டர்,100 ml/Acre,100 மி.லி/ஏக்கர்
+Rice,Tungro,Mature (1-3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.3 ml/L,0.3 மி.லி/லிட்டர்,150 ml/Acre,150 மி.லி/ஏக்கர்
+Rice,Tungro,Old (> 3 months),Imidacloprid,இமிடாகுளோபிரிட்,0.5 ml/L,0.5 மி.லி/லிட்டர்,200 ml/Acre,200 மி.லி/ஏக்கர்
+Tomato,EarlyBlight,Young (< 1 month),Chlorothalonil,குளோரோதாலோனில்,1.5 g/L,1.5 கிராம்/லிட்டர்,350 g/Acre,350 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Mature (1-3 months),Chlorothalonil,குளோரோதாலோனில்,2.0 g/L,2.0 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,EarlyBlight,Old (> 3 months),Chlorothalonil,குளோரோதாலோனில்,2.5 g/L,2.5 கிராம்/லிட்டர்,750 g/Acre,750 கிராம்/ஏக்கர்
+Tomato,LateBlight,Young (< 1 month),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2 g/L,2 கிராம்/லிட்டர்,400 g/Acre,400 கிராம்/ஏக்கர்
+Tomato,LateBlight,Mature (1-3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,2.5 g/L,2.5 கிராம்/லிட்டர்,500 g/Acre,500 கிராம்/ஏக்கர்
+Tomato,LateBlight,Old (> 3 months),Mancozeb & Metalaxyl,மாங்கோசெப் & மெட்டாலாக்சில்,3 g/L,3 கிராம்/லிட்டர்,600 g/Acre,600 கிராம்/ஏக்கர்

@@ -1,0 +1,393 @@
+[
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measures to be taken on bacterial wilt in brinjal crops.",
+    "originalAnswer": "suggested to apply 100 ppm agromycine or streptomycine twice in a week and also to avoid water stagnation in the field."
+  },
+  {
+    "crop": "coconut",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "COPPER GUARD",
+    "alternativeName": "COPPER GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for the control measure of fruit rot in coconut.",
+    "originalAnswer": "suggested mr.majumder to apply bordeaux mixture @ 1% i.e 10ltrs. in trench system around the plant to get rid off this disease."
+  },
+  {
+    "crop": "potato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking the control measure for bacterial wilt in potato.",
+    "originalAnswer": "suggested mr.koiri to drench the soil at the base of the plant with 100ppm of streptomycin. also suggested to apply a mixture of 1 gram asafoetida along with 5 gram of turmeric powder in 10 litres of water and to drench the soil 3 times at an interval of 15,30 and 45 days after transplanting."
+  },
+  {
+    "crop": "potato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking the control measure of bacterial wilt in his potato cultivation.",
+    "originalAnswer": "suggested to apply streptomycin @ 1 gram per litre of water and to drench the soil around the plant with 1 gram of asafoetida along with 5 gram of turmeric powder by mixing in 10 litres of water.also advised that whenever he goes for his next cultivation of potato, to apply 12 gram of bleaching powder per hectare during final land preparation."
+  },
+  {
+    "crop": "tomato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure to control wilting problem of tomato.",
+    "originalAnswer": "suggested to applly agromycin@200 milligram/liter of water or  spray solution of 1gram asafoetida + 5 gram turmeric mixture/10 liters of water."
+  },
+  {
+    "crop": "tomato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure to control bacterial wilt disease of tomato.",
+    "originalAnswer": "suggested to apply streptomycin sulphate@200mg/liter of water."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "ALL CLEAR",
+    "alternativeName": "ALL CLEAR",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asked about the control measure of fungal wilt of brinjal.",
+    "originalAnswer": "suggested to drench the soil with captan @ 3gm per liter of water."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asked about the control measure of root rot of brinjal.",
+    "originalAnswer": "suggested to drench the soil with captaf @ 2gm per liter of water and to go for seed treatment before sowing."
+  },
+  {
+    "crop": "maize",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "ALL CLEAR",
+    "alternativeName": "ALL CLEAR",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure of root rot in bhindi and duration of maize.",
+    "originalAnswer": "suggested spray captan @ 2gm/lt of water or to drench the soil around the root portion. duration of maize for hybrid var.are ganga 101=145-150 days,ganga 5=150-155 days,deccan hybrid=160-165 days."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "ALL CLEAR",
+    "alternativeName": "ALL CLEAR",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for the control measure against fungal wilt in brinjal.",
+    "originalAnswer": "suggested to drench the soil at and around the base of the plant with captan 50 wp solution @ 3 gram in 1 litre of water as the control measure against fungal wilt in brinjal."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for any plant protection measure against furit borers in brinjal.",
+    "originalAnswer": "advised to apply furadon 3g @ 2.5 grams per plant and at the stage of 20 days after transplanting in the main field. also advised to grow garlic in between or as a boarder crop for lesser pest attack in brinjal crop cultivation."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for any plant protection measure against furit borers in brinjal.",
+    "originalAnswer": "advised to apply furadon 3g @ 2.5 grams per plant and at the stage of 20 days after transplanting in the main field. also advised to grow garlic in between or as a boarder crop for lesser pest attack in brinjal crop cultivation."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for any plant protection measure against furit borers in brinjal.",
+    "originalAnswer": "advised to apply furadon 3g @ 2.5 grams per plant and at the stage of 20 days after transplanting in the main field. also advised to grow garlic in between or as a boarder crop for lesser pest attack in brinjal crop cultivation."
+  },
+  {
+    "crop": "rice",
+    "symptoms": [
+      "yellowing"
+    ],
+    "pest": "Stem Borer",
+    "scientificName": "To be updated",
+    "pesticide": "SPRINT",
+    "alternativeName": "SPRINT",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure of yellow stem borer pest attack in sali rice.",
+    "originalAnswer": "suggested to spray chlorpyriphos 20 ec @ 2 mililitre / litre of water."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "rotting"
+    ],
+    "pest": "Unknown Pest",
+    "scientificName": "To be updated",
+    "pesticide": "ALL CLEAR",
+    "alternativeName": "ALL CLEAR",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure of root rot disease in brinjal.",
+    "originalAnswer": "suggested to spray captan @ 2 gram / litre of water near the root zone."
+  },
+  {
+    "crop": "tomato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for the control measure against bacterial wilt in tomato.",
+    "originalAnswer": "'streptomycin' or 'plantomycin' or 'agrimycin' solution @ 1 gram per 10 litres of water has been suggetsed to spray on the crop and to drench the soil by spraying at and around the base of the plant with a mixture solution of 1 gram of asafoetida + 5 grams of turmeric powder in 10 litres of water."
+  },
+  {
+    "crop": "potato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking for the control measure against bacterial wilt in potato.",
+    "originalAnswer": "'streptomycin' or 'plantomycin' or 'agrimycin' solution @ 1 gram per 10 litres of water has been suggetsed to spray on the crop and to drench the soil by spraying at and around the base of the plant with a mixture solution of 1 gram of asafoetida + 5 grams of turmeric powder in 10 litres of water."
+  },
+  {
+    "crop": "tomato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control  measure to control bacterial wilt disease in tomato.",
+    "originalAnswer": "suggested to spray streptocyclin (streptomycin sulphate)@200 miligram/liter of water at 15 days interval."
+  },
+  {
+    "crop": "tomato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control  measure to control bacterial wilt disease in tomato",
+    "originalAnswer": "suggested to spray streptocyclin (streptomycin sulphate)@200 miligram/liter of water at 15 days interval."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "DITHANE M-45",
+    "alternativeName": "DITHANE M-45",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure of fungal wilt in brinjal.",
+    "originalAnswer": "advised to apply indofil m-45/dithane m-45/uthane m-45 @ 2.5 gram / litre of water"
+  },
+  {
+    "crop": "tomato",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "SPRINT",
+    "alternativeName": "SPRINT",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "2 per litre",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about fungal wilt problem in tomato",
+    "originalAnswer": "suggested to soil drenching with bavistin @ 1gm/litre of water for tomato.spray malathion 50ec @ 2ml/litre of water for beans."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "3 per litre",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "asking about the control measure of fungal wilt in  brinjal",
+    "originalAnswer": "suggested to soil drenching with captaf @ 3 gram/liter of water."
+  },
+  {
+    "crop": "brinjal",
+    "symptoms": [
+      "wilting"
+    ],
+    "pest": "Bacterial Wilt",
+    "scientificName": "To be updated",
+    "pesticide": "CROP GUARD",
+    "alternativeName": "CROP GUARD",
+    "dosage": "300-500 ml/acre",
+    "applicationMethod": "spray",
+    "dosageDetails": "As per label directions",
+    "safetyInterval": 14,
+    "confidence": 85,
+    "originalQuestion": "wilt in brinjal",
+    "originalAnswer": "spray rhodomil 2g + streptomycine 1g/2lit of water"
+  }
+]

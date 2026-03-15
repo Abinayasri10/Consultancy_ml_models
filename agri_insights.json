@@ -1,0 +1,252 @@
+{
+    "summary": {
+        "total_records": 19689,
+        "model_accuracy": "97.95%",
+        "top_crop": "Coconut",
+        "high_yield_state": "Goa"
+    },
+    "cropYieldData": [
+        {
+            "Crop": "Coconut",
+            "Yield": 8652.000198744186,
+            "Pesticide": 60419.48648197674,
+            "Fertilizer": 30270779.025755815
+        },
+        {
+            "Crop": "Sugarcane",
+            "Yield": 51.72743941127438,
+            "Pesticide": 46165.8302073719,
+            "Fertilizer": 22983364.50306
+        },
+        {
+            "Crop": "Banana",
+            "Yield": 26.851127854040815,
+            "Pesticide": 7823.958111020409,
+            "Fertilizer": 4002412.4885469386
+        },
+        {
+            "Crop": "Tapioca",
+            "Yield": 16.66730148311443,
+            "Pesticide": 5639.087121890548,
+            "Fertilizer": 2832663.9748258702
+        },
+        {
+            "Crop": "Potato",
+            "Yield": 13.331717759538218,
+            "Pesticide": 13695.404142515923,
+            "Fertilizer": 6831246.696185669
+        },
+        {
+            "Crop": "Onion",
+            "Yield": 13.247524628323788,
+            "Pesticide": 5415.357448237885,
+            "Fertilizer": 2717198.2597088106
+        },
+        {
+            "Crop": "Sweet potato",
+            "Yield": 9.240788497794872,
+            "Pesticide": 1160.468924908425,
+            "Fertilizer": 562407.7115531135
+        },
+        {
+            "Crop": "Jute",
+            "Yield": 7.555392696430939,
+            "Pesticide": 26766.042044198897,
+            "Fertilizer": 13153395.829392264
+        },
+        {
+            "Crop": "Ginger",
+            "Yield": 6.442201573232198,
+            "Pesticide": 1534.820001857585,
+            "Fertilizer": 783140.6579291022
+        },
+        {
+            "Crop": "Mesta",
+            "Yield": 5.389203528904762,
+            "Pesticide": 2280.4173333333333,
+            "Fertilizer": 1091551.324095238
+        }
+    ],
+    "regionalYield": [
+        {
+            "State": "Goa",
+            "Yield": 354.7803048780488
+        },
+        {
+            "State": "Puducherry",
+            "Yield": 346.5128370746522
+        },
+        {
+            "State": "Kerala",
+            "Yield": 276.61114843343256
+        },
+        {
+            "State": "West Bengal",
+            "Yield": 266.89831094941593
+        },
+        {
+            "State": "Tamil Nadu",
+            "Yield": 226.05022098285522
+        },
+        {
+            "State": "Assam",
+            "Yield": 219.71634522824897
+        },
+        {
+            "State": "Andhra Pradesh",
+            "Yield": 181.4653907765782
+        },
+        {
+            "State": "Karnataka",
+            "Yield": 105.72057807823953
+        },
+        {
+            "State": "Telangana",
+            "Yield": 99.51820587628211
+        },
+        {
+            "State": "Delhi",
+            "Yield": 13.118669950738918
+        }
+    ],
+    "yearlyTrends": [
+        {
+            "Crop_Year": 1997,
+            "Yield": 63.87257705298049
+        },
+        {
+            "Crop_Year": 1998,
+            "Yield": 55.93846204759133
+        },
+        {
+            "Crop_Year": 1999,
+            "Yield": 76.9437221458523
+        },
+        {
+            "Crop_Year": 2000,
+            "Yield": 75.57290132982642
+        },
+        {
+            "Crop_Year": 2001,
+            "Yield": 75.44159392898666
+        },
+        {
+            "Crop_Year": 2002,
+            "Yield": 80.65621451715339
+        },
+        {
+            "Crop_Year": 2003,
+            "Yield": 83.69459284963546
+        },
+        {
+            "Crop_Year": 2004,
+            "Yield": 81.20192764024016
+        },
+        {
+            "Crop_Year": 2005,
+            "Yield": 86.48654288493218
+        },
+        {
+            "Crop_Year": 2006,
+            "Yield": 77.47903554153099
+        },
+        {
+            "Crop_Year": 2007,
+            "Yield": 76.7497757628116
+        },
+        {
+            "Crop_Year": 2008,
+            "Yield": 85.63689833422079
+        },
+        {
+            "Crop_Year": 2009,
+            "Yield": 85.9497189917422
+        },
+        {
+            "Crop_Year": 2010,
+            "Yield": 72.17762342916065
+        },
+        {
+            "Crop_Year": 2011,
+            "Yield": 84.04500937169128
+        },
+        {
+            "Crop_Year": 2012,
+            "Yield": 76.56419036115996
+        },
+        {
+            "Crop_Year": 2013,
+            "Yield": 94.8679957314672
+        },
+        {
+            "Crop_Year": 2014,
+            "Yield": 107.15031878089844
+        },
+        {
+            "Crop_Year": 2015,
+            "Yield": 82.2422249589018
+        },
+        {
+            "Crop_Year": 2016,
+            "Yield": 78.05031173816408
+        },
+        {
+            "Crop_Year": 2017,
+            "Yield": 74.74944859459158
+        },
+        {
+            "Crop_Year": 2018,
+            "Yield": 75.25370273262841
+        },
+        {
+            "Crop_Year": 2019,
+            "Yield": 74.31961806653847
+        },
+        {
+            "Crop_Year": 2020,
+            "Yield": 4.420096031918919
+        }
+    ],
+    "pesticideImpact": [
+        {
+            "Crop": "Wheat",
+            "Pesticide": 301283.18312422023
+        },
+        {
+            "Crop": "Rice",
+            "Pesticide": 223779.9665548037
+        },
+        {
+            "Crop": "Soyabean",
+            "Pesticide": 146748.6814183381
+        },
+        {
+            "Crop": "Cotton(lint)",
+            "Pesticide": 128428.65286344537
+        },
+        {
+            "Crop": "Oilseeds total",
+            "Pesticide": 95871.08275862069
+        },
+        {
+            "Crop": "Niger seed",
+            "Pesticide": 90760.773125
+        },
+        {
+            "Crop": "Jowar",
+            "Pesticide": 84103.22549707603
+        },
+        {
+            "Crop": "Gram",
+            "Pesticide": 81341.19506816326
+        },
+        {
+            "Crop": "Coconut",
+            "Pesticide": 60419.48648197674
+        },
+        {
+            "Crop": "Bajra",
+            "Pesticide": 47060.74020229008
+        }
+    ]
+}
